@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**vladbeletskii/vladbeletskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vlad, a Product Design Engineer who loves working with CAD, automation, and 3D printing.  
+I enjoy optimizing design workflows, creating useful tools, and sometimes just tinkering with cool projects.  
 
-Here are some ideas to get you started:
+### 🔧 What I do  
+- 🏗️ **CAD & Product Design** – SolidWorks, Fusion 360, parametric modeling  
+- 🤖 **Automation** – Python scripts for CAD & engineering tasks  
+- 🖨️ **3D Printing & DIY** – experimenting, prototyping, and fixing broken things  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects & Work  
+🔹 Check out my repos where I share useful tools, scripts, and designs!  
+🔹 I also post 3D printing experiments and workflow automation projects.  
+
+### 📫 Let's connect  
+- 🔗 [GitHub](https://github.com/vladbeletskii)  
+- ✉️ beletskiivladimir@gmail.com
+
+---
+*"Design smarter, not harder."*
